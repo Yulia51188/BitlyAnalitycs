@@ -14,7 +14,7 @@ BITLY_TOKEN=<your generic access token>
 
 Python3 should be already installed. Then use pip (or pip3, if there is a conflict with Python2) to install dependencies:
 
-```python
+```bash
 pip install -r requirements.txt
 ```
 # How to launch
